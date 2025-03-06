@@ -5,3 +5,4 @@ Este repositório também faz parte do curso de automação de testes fornecido 
 # Índice
 1. [Comandos de consulta](comandos-consulta)
 2. [Comandos Git](comandos-git)
+3. [Desafios]
