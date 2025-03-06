@@ -1,4 +1,4 @@
 # Funcionalidades
 
 ## Nova funcionalidade 1
-Teste para inclusão de uma nova funcionalidade
+Teste para inclusão de uma nova funcionalidade.
