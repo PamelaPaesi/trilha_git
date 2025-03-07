@@ -1,0 +1,6 @@
+# Ignorar pastas específicas
+build/
+
+# Ignorar arquivos de configuração e credenciais
+.env
+debug.log
